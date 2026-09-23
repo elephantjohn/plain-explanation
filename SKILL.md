@@ -4,6 +4,7 @@ display_name: 通俗解释
 display_name_zh: 通俗解释
 display_name_en: Plain Explanation
 description: This skill should be used when the user asks to explain a concept in a way that even a 5-year-old can understand — including phrases like "通俗解释", "说人话", "讲给 5 岁听", "用大白话讲", "再简单点", "给小白讲讲", "打个比方", or any follow-up that signals the previous explanation was too complex. Every explanation is rewritten as a short, vivid, concrete story a child can picture.
+description_en: This skill should be used when the user asks to explain a concept in a way that even a 5-year-old can understand — including phrases like "plain explanation", "explain like I'm 5", "simpler please", "use an analogy", or any follow-up that signals the previous explanation was too complex. Every explanation is rewritten as a short, vivid, concrete story a child can picture.
 description_zh: 当用户要求把概念讲到 5 岁孩子也能懂时使用，包括"通俗解释" "说人话" "讲给 5 岁听" "用大白话讲" "再简单点" "给小白讲讲" "打个比方" 等表达。每次解释都以"5 岁孩子能听懂"为唯一标准，把抽象概念改写成具体、生动、可想象的小故事。
 version: "1.0.0"
 category: 知识与学习
